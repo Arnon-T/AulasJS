@@ -1,0 +1,25 @@
+        table {
+            width: 165px;
+        }
+
+        fieldset {
+            width: 180px;
+        }
+
+        label {
+            width: 100%;
+            display: block;
+            float: left;
+        }
+
+        label,
+        input {
+            width: 60px;
+            margin: 3px 0;
+        }
+
+        th,
+        td {
+            border: 1px solid #000;
+            font-size: 0.8em;
+        }
